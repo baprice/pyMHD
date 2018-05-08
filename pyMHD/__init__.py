@@ -187,7 +187,7 @@ def vcfMHD(vcf, genome, minDelSize = 5, flankSize = 100, trfdir = None):
     
     Parameters
     ----------
-    maf : string
+    vcf : string
         Location of input VCF file
     genome : string
         Location of reference genome fasta
